@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\system\obj\Debug\system.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\system\obj\Debug\system.CheckoutForm.resources
+C:\Users\ACER\source\repos\system\obj\Debug\system.FormProducts.resources
+C:\Users\ACER\source\repos\system\obj\Debug\system.FormShoppingCart.resources
+C:\Users\ACER\source\repos\system\obj\Debug\system.Resources.resources
+C:\Users\ACER\source\repos\system\obj\Debug\system.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\system\obj\Debug\system.vbproj.CoreCompileInputs.cache
